@@ -94,7 +94,11 @@
           <div class="skill">Embedded Systems (Beginner)</div>
           <div class="skill">SQL</div>
         </div>
+<<<<<<< Updated upstream
       </section
+=======
+      </stion>
+>>>>>>> Stashed changes
     </aside>
   </div>
 </body>
