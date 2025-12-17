@@ -1,1 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arunachaleshwaran J | Resume</title>
+  <link rel="stylesheet" href="css/css.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="avatar">
+  <img src="C:\Users\ARUNACHALESHWARAN\Desktop\HTML\images\Arunachaleshwaran_photo.jpg" alt="Profile Photo">
+</div>
+      <div>
+        <h1>Arunachaleshwaran J</h1>
+        <p>Electronics and Communication Engineering Student | IoT & Embedded Systems Enthusiast</p>
+      </div>
+    </header>
 
+    <!-- Main Section -->
+    <main class="card">
+      <section>
+        <h2>Professional Summary</h2>
+        <p>
+          Motivated and inquisitive Electronics and Communication Engineering student currently in the third year at
+          Vaigai College of Engineering. Possesses a foundational understanding of IoT, Python, HTML, and C
+          programming, with a growing interest in embedded systems and real-time tech solutions. Successfully
+          completed an internship at Caliber, gaining industry exposure and enhancing technical adaptability. Known
+          for a curious mindset, quick learning ability, and a strong desire to contribute to innovative engineering
+          projects.
+        </p>
+      </section>
+
+      <section>
+        <h2>Professional Experience</h2>
+        <div class="job">
+          <div class="role">Intern</div>
+          <div class="company">Caliber Embedded Technologies India Pvt. Ltd</div>
+          <ul>
+            <li>Built and deployed an Ultrasonic-based automation system using Arduino, HC-SR04 sensor, I2C LCD, and relay module.</li>
+            <li>Designed and tested real-time sensor-based systems including IR object detection and DHT11-based temperature & humidity monitor.</li>
+            <li>Constructed analog circuits like 555 Timer LED flasher and light-activated LED controller using Op-Amp 741 and LDR.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section>
+        <h2>Education</h2>
+        <div class="edu">
+          <div class="degree">B.E. Electronics and Communication Engineering</div>
+          <div class="school">Vaigai College of Engineering | CGPA: 7.8</div>
+        </div>
+        <div class="edu">
+          <div class="degree">HSC</div>
+          <div class="school">Sri Vidyalayam Matric Hr Sec School | 69.6%</div>
+        </div>
+        <div class="edu">
+          <div class="degree">SSLC</div>
+          <div class="school">Sri Vidyalayam Matric Hr Sec School</div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Certifications</h2>
+        <div class="cert">Internet of Things - NPTEL</div>
+        <div class="cert">C Programming - Udemy, SVS Academy</div>
+        <div class="cert">Embedded Systems - Caliber</div>
+        <div class="cert">Embedded Systems - Quantanics</div>
+        <div class="cert">HTML - Udemy</div>
+        <div class="cert">SQL - Udemy</div>
+      </section>
+    </main>
+
+    <!-- Sidebar -->
+    <aside class="card">
+      <section class="contact">
+        <h2>Contact</h2>
+        <p>📞 +91 9487433886</p>
+        <p>📧 arunachaleshjegan@outlook.com</p>
+        <p>🌐 <a href="https://www.linkedin.com/in/arunachaleshwaran-jeganathan-b049b3274" target="_blank">LinkedIn Profile</a></p>
+      </section>
+
+      <section>
+        <h2>Technical Skills</h2>
+        <div class="skills">
+          <div class="skill">Python</div>
+          <div class="skill">HTML</div>
+          <div class="skill">CSS</div>
+          <div class="skill">IoT</div>
+          <div class="skill">C Programming</div>
+          <div class="skill">Embedded Systems (Beginner)</div>
+          <div class="skill">SQL</div>
+        </div>
+<<<<<<< Updated upstream
+      </section
+=======
+      </section>
+>>>>>>> Stashed changes
+    </aside>
+  </div>
+</body>
+</html>
